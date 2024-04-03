@@ -1,2 +1,2 @@
-# Disease_Detection
-Performance of various machine learning models, for the prediction of diseases that are Anemia, Diabetes, Thromboc, Thalassa from various health indicators. The system will utilize a diverse set of health data, to prediction of individuals having diseases.
+# Disease Detection
+This aims to compare and evaluate the performance of various machine learning models, including Neural Networks, Support Vector Machines(SVM), Naive Bayes, and Logistic Regression, for the prediction of multiple diseases that are Anemia, Diabetes, Thromboc, Thalassa from various health indicators. The system will utilize a diverse set of health data, to predict the likelihood of individuals having multiple diseases concurrently. The study seeks to identify the most effective model in terms of accuracy, precision, recall, F1 score, and other relevant metrics.
